@@ -10,7 +10,7 @@ Simple inverting lm3886 amplifier with ad825 buffer
 - PCB design - [Vitali Semashkevich](https://www.linkedin.com/in/vit-sema/)
 
 ### Links
-- [http:/git/forum.vegalab.ru/showthread.php?t=56985](http://forum.vegalab.ru/showthread.php?t=56985)
+- [http://forum.vegalab.ru/showthread.php?t=56985](http://forum.vegalab.ru/showthread.php?t=56985)
 - [http://forum.vegalab.ru/showthread.php?t=58364](http://forum.vegalab.ru/showthread.php?t=58364)
 
 ### Buy parts for assembling

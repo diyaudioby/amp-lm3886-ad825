@@ -1,5 +1,7 @@
 ## LM3886 + AD825
 
+![lm3886-ad825](./images/DSC_0043_.JPG)
+
 ### Description
 Simple inverting lm3886 amplifier with ad825 buffer
 

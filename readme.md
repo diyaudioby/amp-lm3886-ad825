@@ -5,10 +5,14 @@
 ### Description
 Simple inverting lm3886 amplifier with ad825 buffer
 
-### Source
+### Links
+- [https://vk.com/lm3886](https://vk.com/lm3886)
 - [https://diyaudio.by/audio/amplifiers/usilitel-lm3886-ad825/](https://diyaudio.by/audio/amplifiers/usilitel-lm3886-ad825/)
+- [http://forum.vegalab.ru/showthread.php?t=56985](http://forum.vegalab.ru/showthread.php?t=56985)
+- [http://forum.vegalab.ru/showthread.php?t=58364](http://forum.vegalab.ru/showthread.php?t=58364)
 
 ### Authors
+- Schematic design - [Audiomaniac]()
 - PCB design - [Vitali Semashkevich](https://www.linkedin.com/in/vit-sema/)
 
 ### Links
